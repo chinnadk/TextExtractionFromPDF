@@ -1,0 +1,25 @@
+safety data sheet
+conforms to regulation (ec) no. 1907/2006 (reach), annex ii
+section 1: identification of the substance/mixture and of the company/undertaking
+1.1. product identifier
+product name
+product code
+1.2. relevant identified uses of the substance or mixture and uses advised against
+1.3. details of the supplier of the safety data sheet
+company name
+address
+telephone
+email
+1.4. emergency telephone number
+section 2 : hazards identification
+2.1. classification of the substance or mixture
+classification according to regulation (ec) no. 1272/2008 [clp]
+2.2. label elements
+labelling according to regulation (ec) no. 12
+hazard pictograms
+signal word
+hazard statements
+precautionary statements
+2.3. other hazards
+no additional information available
+section 3: composition/information on ingredients
